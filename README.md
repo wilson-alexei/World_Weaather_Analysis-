@@ -9,3 +9,17 @@ Jack loves the PlanMyTrip app. Beta testers love it too. And, as with any new pr
 ## Results
 
 > Deliverable 1 
+
+* Directions:
+1. Create a new set of 2,000 random latitudes and longitudes.
+2. Get the nearest city using the citipy module.
+3. Perform an API call with the OpenWeatherMap.
+4. Retrieve the following information from the API call:
+~ Latitude and longitude
+~ Maximum temperature
+~ Percent humidity
+~ Percent cloudiness
+~ Wind speed
+~ Weather description (for example, clouds, fog, light rain, clear sky)
+
+5. Add the data to a new DataFrame.
